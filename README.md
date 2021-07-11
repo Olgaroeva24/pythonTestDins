@@ -8,7 +8,6 @@
 
 
 ### How to run autotests
-To run autotests remotely pass the following parameters in remote_driver.properties:
  - interpreter Python = PyCharm Community
  - pip install -U requests
  - import pytest
